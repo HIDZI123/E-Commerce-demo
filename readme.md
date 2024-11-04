@@ -4,6 +4,17 @@
 
 ModernStore is a comprehensive e-commerce application designed to provide a seamless shopping experience. The project leverages modern web development technologies to ensure a responsive, efficient, and scalable solution.
 
+## Table of Contents
+
+- [Technology Stack](#technology-stack)
+- [Project Structure](#project-structure)
+- [Key Features](#key-features)
+- [Development Setup](#development-setup)
+- [Strengths](#strengths)
+- [Areas for Improvement](#areas-for-improvement)
+- [Conclusion](#conclusion)
+- [Screenshots](#screenshots)
+
 ## Technology Stack
 
 ### Frontend
